@@ -4,7 +4,6 @@ Two hands-on ML Engineering projects built as part of an AI Engineer internship 
 Each project is self-contained with its own dependencies and README.
 
 ## Projects
-
 ### 1. `cv-api/` — Computer Vision API
 A REST API that accepts an image and returns object detection results.
 Built with FastAPI + YOLOv8. Callable from outside via curl or Postman.
@@ -21,10 +20,6 @@ then stores the result in a local database.
 - Gemini 2.5 Flash (google-genai)
 - SQLite / MongoDB
 - Pillow, OpenCV
-
-## Status
-- [ ] cv-api — in progress
-- [ ] etl-pipeline — not started
 
 ## Author
 An Loc Nguyen — Year 2 CS @ NTU Singapore
